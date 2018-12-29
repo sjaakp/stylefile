@@ -1,0 +1,22 @@
+{
+  "name": "stylefile",
+  "version": "0.9.0",
+  "homepage": "https://github.com/sjaakp/stylefile",
+  "authors": [
+    "Sjaak Priester <sjaak@sjaakpriester.nl>"
+  ],
+  "description": "jQuery widget to style HTML File Input",
+  "main": "jquery.stylefile.js",
+  "keywords": [
+    "jquery",
+    "widget",
+    "file input"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">=2.1"
+  },
+  "ignore": [
+    "**/.*"
+  ]
+}
