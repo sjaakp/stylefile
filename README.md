@@ -20,6 +20,13 @@ At the end of the `body` part, load the jQuery library:
 And the **Stylefile** code:
 
     <script src="jquery.stylefile.js"></script>
+    
+#### Load from CDN ####
+
+You may also load the **Stylefile** code from a content distribution network (CDN), like so:
+
+    <script src="https://unpkg.com/@sjaakp/stylefile/jquery.stylefile.min.js"></script>
+
 
 #### Set-up ####
 
