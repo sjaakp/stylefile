@@ -59,7 +59,7 @@ To select all file inputs on a page, use something like:
 
 #### btnClass ####
 
-The classname(s) of the 'Browse' button. Default is: `"btn btn-default"` (consistent with Bootstrap CSS).
+The classname(s) of the 'Browse' button. Default is: `"btn btn-secondary"` (consistent with Bootstrap4 CSS).
 
 #### btnText ####
 
