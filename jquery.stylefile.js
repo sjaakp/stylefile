@@ -82,7 +82,7 @@
 
     $.fn.stylefile.defaults = {
         decimals: 3,
-        btnClass: "btn btn-default",
+        btnClass: "btn btn-secondary",
         btnText: "Browse",
         infoClass: "text-muted",
         noFileText: '<span class="nofile">No file selected</span>',
