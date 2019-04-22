@@ -1,6 +1,6 @@
 {
   "name": "@sjaakp/stylefile",
-  "version": "0.9.1",
+  "version": "0.9.3",
   "description": "jQuery widget to style HTML File Input",
   "browser": "./jquery.stylefile.min.js",
   "files": [
